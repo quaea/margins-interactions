@@ -1,0 +1,16 @@
+	(1)	(2)
+VARIABLES	mpg	mpg
+		
+weight	-0.00553***	-0.00712***
+	(0.00113)	(0.00105)
+price		0.000226
+		(0.000342)
+foreign		-2.507
+		(2.076)
+Constant	38.07***	42.17***
+	(3.691)	(2.562)
+		
+Observations	26	26
+R-squared	0.653	0.675
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
