@@ -1,0 +1,1 @@
+use "https://github.com/quarcs-lab/mendez2020-convergence-clubs-code-data/raw/master/assets/dat.dta", clear
